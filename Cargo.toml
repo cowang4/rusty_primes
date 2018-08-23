@@ -1,0 +1,6 @@
+[package]
+name = "rusty_primes"
+version = "0.1.0"
+authors = ["Greg Cowan <cowang4@gmail.com>"]
+
+[dependencies]
